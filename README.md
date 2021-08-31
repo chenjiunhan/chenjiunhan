@@ -1,10 +1,9 @@
 Hi there 👋
 
 I'm Lucas Jaqq.
-Freelancer, Fun technology, Freedom seeker.
 
 I'm a **freelance**, who are interesting in **fun technologies** like AI, blockchain...etc.
-I believe that technologies can be used in a good way to give people freedom.
+I believe that technologies can be used in a good way to give people **freedom**.
 
 - 🔭 Working on [PyHAC](https://github.com/dabit-lucas/hac).
 - 🌱 Learning AI applications in finance and Spanish.
