@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**chenjiunhan/chenjiunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas Jaqq.
+Freelancer, Fun technology, Freedom seeker.
 
-Here are some ideas to get you started:
+I'm a **freelance**, who are interesting in **fun technologies** like AI, blockchain...etc.
+I believe that technologies can be used in a good way to give people freedom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on [PyHAC](https://github.com/dabit-lucas/hac).
+- 🌱 Learning AI applications in finance and Spanish.
+- 👯 Looking for help with [PyHAC](https://github.com/dabit-lucas/hac), if you're interesting, please contact me without hesitation. 
+- 📫 How to reach me: Email or [FB](https://www.facebook.com/LucasJaqq)
+- 😄 Happy to talk about anything about technologies.
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjiunhan&hide=jupyter%20notebook)
