@@ -3,8 +3,10 @@ Hi there 👋
 I'm Lucas Jaqq.
 
 I'm a **freelance**, who are interesting in **fun technologies** like AI, blockchain...etc.
+
 I believe that technologies can be used in a good way to give people **freedom**.
 
+About me:
 - 🔭 Working on [PyHAC](https://github.com/dabit-lucas/hac).
 - 🌱 Learning AI applications in finance and Spanish.
 - 👯 Looking for help with [PyHAC](https://github.com/dabit-lucas/hac), if you're interesting, please contact me without hesitation. 
