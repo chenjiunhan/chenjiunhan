@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Lucas Jaqq.
 
-I'm a **freelance**, who are interesting in **fun technologies** like AI, blockchain...etc.
+I'm a **freelancer**, who are interesting in **fun technologies** like AI, blockchain...etc.
 
 I believe that technologies can be used in a good way to give people **freedom**.
 
